@@ -1,0 +1,19 @@
+
+.bt-hover
+{
+    transition: 1s;
+    width: 140px;
+    height: 60px;
+}
+
+.bt-hover:hover
+{
+    background-color: green;
+    border-color: green;
+}
+
+.fw-color
+{
+    color:black ;
+
+}
